@@ -1,0 +1,15 @@
+C:/altera/91/modelsim_ase/examples/Bushma_Project/Bushma_control.v {1 {vlog -work work -nocovercells C:/altera/91/modelsim_ase/examples/Bushma_Project/Bushma_control.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module Bushma_Control
+
+Top level modules:
+	Bushma_Control
+
+} {} {}} C:/altera/91/modelsim_ase/examples/Bushma_Project/Bushma_tb.v {1 {vlog -work work -nocovercells C:/altera/91/modelsim_ase/examples/Bushma_Project/Bushma_tb.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module Bushma_tb
+
+Top level modules:
+	Bushma_tb
+
+} {} {}}

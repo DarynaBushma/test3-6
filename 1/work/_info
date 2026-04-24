@@ -1,0 +1,39 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\91\modelsim_ase\examples
+vBushma_Control
+IlNMRC]OXKzS>AlMg`IT^i1
+V`A[]M]=jAOS5=c_4Qm5Mm1
+Z0 dC:\altera\91\modelsim_ase\examples\Bushma_Project
+w1777022520
+8C:/altera/91/modelsim_ase/examples/Bushma_Project/Bushma_control.v
+FC:/altera/91/modelsim_ase/examples/Bushma_Project/Bushma_control.v
+L0 1
+Z1 OV;L;6.5b;42
+r1
+31
+Z2 !s102 -nocovercells
+Z3 o-work work -nocovercells -O0
+n@bushma_@control
+!s100 XgR1ejOJ;I^`ASziLkzZi1
+!s85 0
+!s101 -O0
+vBushma_tb
+!s100 lEYSU1=E:^VLfXWoKd[zn3
+ILZo]J5PP=<=g[In8M3?_m1
+VRGLK6eM;fHVP>g6NE<ZzW1
+Z4 dC:\altera\91\modelsim_ase\examples\Bushma_Project
+w1777022514
+8C:/altera/91/modelsim_ase/examples/Bushma_Project/Bushma_tb.v
+FC:/altera/91/modelsim_ase/examples/Bushma_Project/Bushma_tb.v
+L0 3
+R1
+r1
+!s85 0
+31
+!s101 -O0
+R2
+R3
+n@bushma_tb
